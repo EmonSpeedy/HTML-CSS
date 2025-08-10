@@ -1,0 +1,28 @@
+/* input[type="text"] {
+  color: blue;
+  background-color: lightgreen;
+} */
+
+/* input[type ^= "t"] {
+  color: forestgreen; /* changes all input fields that start with 't' */
+/* } */ 
+
+input[type="password"] {
+  background-color: aliceblue;
+}
+input[type="text"] {
+  background-color: aliceblue;
+}
+/* a[href="https://google.co.bd"] {
+  color: green;
+}
+a[href *= "google"] { /*changes all links that contain 'google'*/
+  /* color: purple; */
+/* }  */
+/* a[href ^="https"] { /*changes all links that start with 'https://google'*/
+  /* color: violet;
+}  */
+
+a[href $= ".com"] { /*changes all links that end with '.com'*/
+  color: orange;
+}

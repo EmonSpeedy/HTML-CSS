@@ -1,0 +1,13 @@
+h1 {
+    border: 5px solid red;
+    padding: 20px 30px 40px 50px;    
+    /* padding-left: 100px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-right: 100px; */
+    /* margin: 20px; */
+    /* margin: 10px 20px 30px 40px; */
+    width: 500px;
+    margin: 20px auto;
+    text-align: center;
+}

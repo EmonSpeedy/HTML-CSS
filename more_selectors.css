@@ -1,0 +1,28 @@
+/* *{
+    color: green;   // Universal selector, not recommended for production
+} */
+
+header{
+    background-color: #f0ebeb;
+}
+section.my-articles{
+    background-color: #f2e9e9;
+}
+header p {              /* change all the paragraph color inside of the header */
+    color: red;
+}
+li a{
+    color: red;     /* change all the link color inside of the list */
+}
+/* section.my-articles h2{
+    color: green;    /* change all the h2 color inside of the section */
+/* }  */
+section.my-articles > h2{
+    color: green;    /* change the h2 color that is immediately after the section.my-articles */
+}
+h2 + p{
+    color: orange;     /* change the color of the paragraph that is immediately after the h2 */
+}
+ul + p{
+    color: magenta;      /* change the color of the paragraph that is immediately after the ul */
+}

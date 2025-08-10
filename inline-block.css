@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* a {
+    border: 2px solid black;
+    margin: 100px;
+    padding: 30px;
+} */
+
+a {
+    display: inline-block;
+    border: 2px solid black;
+    /* margin: 100px; */
+    padding: 30px;
+    width: 400px;
+    height: 100px;
+}

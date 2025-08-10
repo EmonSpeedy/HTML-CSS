@@ -1,0 +1,16 @@
+body {
+    color: brown;
+}
+.container1 {
+    color: blue;
+}
+.container2 {
+    color: skyblue;
+}
+h1 {
+    color: red;
+}
+a {
+    color: green;
+    text-decoration: none;
+}

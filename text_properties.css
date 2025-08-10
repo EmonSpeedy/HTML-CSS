@@ -1,0 +1,11 @@
+h1 {
+    font-size: 50px;
+    text-decoration: underline wavy red;
+    letter-spacing: 2px;
+}
+p {
+    font-size: 20px;
+    line-height: 30px;
+    word-spacing: 10px;
+    letter-spacing: 1px;
+}

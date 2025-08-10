@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1, h2 {
+    border: 2px solid black;
+    width: 500px;
+    margin: 100px;
+    display: inline;
+}
+a {
+    border: 2px solid black;
+    margin: 100px;
+    display: block;
+    width: 100px;
+    height: 300px;
+}

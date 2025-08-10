@@ -1,0 +1,21 @@
+/* link, visited, hover, active  */
+
+a:link {
+    color: cadetblue;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: green;
+}
+
+p:active {
+    color: purple;
+}

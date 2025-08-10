@@ -1,0 +1,23 @@
+/* body :not(.fancy) {
+    color: red;
+    background-color: yellowgreen;
+} */
+
+/* div:empty {
+    background-color: lightblue;
+    color: darkblue;
+    border: 2px solid darkblue;
+    height: 100px;
+    width: 100px;
+} */
+
+/* :root and html are almost same but :root has the highest specificity. */
+
+html {
+    background-color: lightcoral;
+    color: white;
+}
+:root {
+    background-color: lightblue; 
+    color: darkblue;
+}

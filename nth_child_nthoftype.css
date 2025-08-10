@@ -1,0 +1,6 @@
+/* p:nth-child(2) {
+    color: rgb(44, 126, 46);
+} */
+p:nth-of-type(2) {
+    color: rgb(19, 109, 212);
+}
